@@ -11,8 +11,6 @@ This web service system is an online dashboard system, used to analyze data from
 web service's architectural
 ![architectural](./intro/architectural.png)
 
-dashboard website design
-![dashboard](./intro/UI.jpeg)
 
 ### Environment
 
